@@ -27,7 +27,7 @@
 
 ### 💜 HEROKU
 
-<a href="https://heroku.com/deploy?template=https://github.com/jokokendi/Music-Ken"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MrRih/Musikanskuy"><img src="https://img.shields.io/badge/BUAT DIHEROKU-blue?style=for-the-badge&logo=heroku" /></a>
 
 ## VIA Repl.it
 Klik tombol dibawah untuk mengambil Pyrogram String Session Atau pilih p bukan t
