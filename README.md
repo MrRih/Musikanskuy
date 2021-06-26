@@ -1,9 +1,9 @@
-# Music-Ken
+# Music-Zam
 <p align="center">
   <img src="https://telegra.ph/file/63fb6cbf626b1ee29c0ad.jpg">
 </p>
 <h1 align="center">
-  <b>🎶 MUSIK ZAM</b>
+  <b>🎶 MUSIK ZAM 🎶 </b>
 </h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
@@ -41,7 +41,7 @@ Khusus strings pyrogram
 ### ⚔ Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/kenkannih/Music-Ken
+$ git clone https://github.com/MrRih/Musikanskuy
 $ cd Music-Ken
 # Upgrade sources
 # Install All Requirements 
